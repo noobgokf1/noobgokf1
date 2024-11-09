@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm noobgokf</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobgokf1&label=Profile%20views&color=0e75b6&style=flat" alt="noobgokf1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobgokf1" alt="noobgokf1" /></a> </p>
+- 👨‍💻 All of my projects are available at [in progress](in progress)
+
+- 📝 I regularly write articles on [in progress](in progress)
+
+- 📫 How to reach me **noobgokf1@gmail.com**
+
+- ⚡ Fun fact **i started programming since i was 10**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
